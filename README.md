@@ -1,5 +1,5 @@
 # 🎶nuna-pi
-![Uploading js-project-7team.png…]()
+![js-project-7team](https://github.com/user-attachments/assets/56f3e8ee-9b1d-45ea-ac51-f78ae64f03f7)
 
 ## 📁프로젝트 소개
 사용자가 쉽고 빠르게 음악을 검색하고, 다양한 아티스트와 최신 음악 정보를 확인할 수 있는 음악 스트리밍 반응웹 사이트입니다.
